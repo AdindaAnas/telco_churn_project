@@ -170,27 +170,29 @@ Seaborn & Matplotlib
 
 # Project Structure
 
-telco_churn_project
+```
+telco_churn_project/
 │
-├── data
-│   ├── raw
-│   └── processed
+├── data/
+│   ├── raw/
+│   └── processed/
 │
-├── notebooks
+├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_customer_segmentation.ipynb
 │   ├── 03_modelling.ipynb
 │   └── 04_business_recommendation.ipynb
 │
-├── sql
+├── sql/
 │   ├── 01_create_database.sql
 │   ├── 02_create_tables.sql
 │   └── 03_create_view_tables.sql
 │
-├── src
+├── src/
 │   ├── clean_data.py
 │   └── database.py
 │
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
