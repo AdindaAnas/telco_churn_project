@@ -218,8 +218,6 @@ A relatively small segment of **high-risk, high-value customers** contributes di
 
 # Key Business Insights
 
-# Key Business Insights
-
 * The customer base is heavily dominated by **month-to-month contracts**, indicating a large segment with low commitment and higher churn risk
 
 * Customers with **short tenure (0–5 months)** are the most vulnerable, especially when combined with **month-to-month contracts**, highlighting onboarding as a critical phase
